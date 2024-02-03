@@ -1,3 +1,5 @@
-# ignore all images
+images/
 images*
-images/*
+*.h5
+.*
+.ipynb_checkpoints/
